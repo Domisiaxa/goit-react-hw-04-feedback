@@ -1,0 +1,7 @@
+.container {
+  margin: 13% auto;
+  width: 500px;
+  border: 2px solid #2287ba;
+  background-color: whitesmoke;
+  border-radius: 8px;
+}
